@@ -7,6 +7,7 @@ A collection of FizzBuzz implementations in multiple languages and platforms, de
 - **ARM Assembly (fizzbuzz.s)** — Linux ARM assembly version using GAS syntax  
 - **Bash one-liner** — Simple shell script printing FizzBuzz from 1 to 100  
 - **IBM System/360 Assembly (fizzbuzz.asm)** — Low-level mainframe assembly implementation using HLASM
+- **C Program (fizzbuzz.c)** — Classic FizzBuzz implementation using standard C
 
 ## Coming Soon
 
